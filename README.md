@@ -62,14 +62,8 @@ Desenvolver uma web API que nos permita gerenciar os alunos de uma instituição
 
 - .NET
 
-- SQL
-
-- Swagger
+- T-SQL
 
 - Postman
 
 - Azure
-
-- NuGet
-
-- Entity FrameworkCore
