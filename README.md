@@ -14,7 +14,7 @@ https://documenter.getpostman.com/view/21638666/UzJPKuZN
 
 ## Escopo
 
-Objetivo: 
+### Objetivo 
 
 Desenvolver uma web API que nos permita gerenciar os alunos de uma instituição de ensino.
 
